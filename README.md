@@ -1,7 +1,7 @@
 Image Loader / Edition
 ==========
 
-Image loader focused on edge detection.
+Image loader focused on edge detection, using C# and image loading functions provided by Windows System, UI using Windows Forms.
 
 Edge Detection Kernels:
 
@@ -35,3 +35,10 @@ Other Options:
 Features:
 
 * Cache Undo/Redo (key mapped to Ctrl+Z and Ctrl+Y respectively)
+
+User Interface:
+
+![Alt text](http://i.imgur.com/Oxv3Qgj.png)
+
+![Alt text](http://i.imgur.com/5u7w8WZ.png)
+
