@@ -10,7 +10,7 @@ Edge Detection Kernels:
 * Prewitt (3x3, 5x5, 7x7) ![Imgur](http://i.imgur.com/vvFzfEZ.png)
 * Laplacian Gaussian (3x3, 5x5, 7x7, 9x9) ![Imgur](http://i.imgur.com/E4gj3tQ.png)
 
-Personal Kernel: Modified Sharpen Kernel
+Personal Kernel: Modified Sharpen Kernel ![Imgur](http://i.imgur.com/GM0mfKq.jpg)
 
 Noise Reduction:
 
