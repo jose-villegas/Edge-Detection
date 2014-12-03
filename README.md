@@ -7,9 +7,9 @@ Edge Detection Kernels:
 
 * Sobel (3x3, 5x5, 7x7, 9x9) ![Alt text](http://i.imgur.com/yuUzb6i.png)
 * Roberts Cross (3x3) ![Alt text](http://i.imgur.com/Y8dsx0F.png)
-* Prewitt (3x3, 5x5, 7x7)
-* Laplacian Gaussian (3x3, 5x5, 7x7, 9x9)
-
+* Prewitt (3x3, 5x5, 7x7) ![Alt text](http://i.imgur.com/vvFzfEZ.png)
+* Laplacian Gaussian (3x3, 5x5, 7x7, 9x9) ![Alt text](http://i.imgur.com/E4gj3tQ.png)
+[Imgur](http://i.imgur.com/E4gj3tQ.png)
 
 
 Personal Kernel: Modified Sharpen Kernel
