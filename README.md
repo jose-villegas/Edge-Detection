@@ -14,8 +14,8 @@ Personal Kernel: Modified Sharpen Kernel
 
 Noise Reduction:
 
-* Average
-* Median
+* Average [Imgur](http://i.imgur.com/98xGhRz.jpg)
+* Median [Imgur](http://i.imgur.com/l66KH4Y.jpg)
 
 Image Scaling:
 
