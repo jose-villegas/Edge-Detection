@@ -5,10 +5,10 @@ Image loader focused on edge detection, using C# and image loading functions pro
 
 Edge Detection Kernels:
 
-* Sobel (3x3, 5x5, 7x7, 9x9) ![Imgur](http://i.imgur.com/yuUzb6i.png)
-* Roberts Cross (3x3) ![Imgur](http://i.imgur.com/Y8dsx0F.png)
-* Prewitt (3x3, 5x5, 7x7) ![Imgur](http://i.imgur.com/vvFzfEZ.png)
-* Laplacian Gaussian (3x3, 5x5, 7x7, 9x9) ![Imgur](http://i.imgur.com/E4gj3tQ.png)
+* Sobel (3x3, 5x5, 7x7, 9x9) [Imgur](http://i.imgur.com/yuUzb6i.png)
+* Roberts Cross (3x3) [Imgur](http://i.imgur.com/Y8dsx0F.png)
+* Prewitt (3x3, 5x5, 7x7) [Imgur](http://i.imgur.com/vvFzfEZ.png)
+* Laplacian Gaussian (3x3, 5x5, 7x7, 9x9) [Imgur](http://i.imgur.com/E4gj3tQ.png)
 
 Personal Kernel: Modified Sharpen Kernel
 
