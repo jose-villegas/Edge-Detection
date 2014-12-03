@@ -5,7 +5,7 @@ Image loader focused on edge detection, using C# and image loading functions pro
 
 Edge Detection Kernels:
 
-* Sobel (3x3, 5x5, 7x7, 9x9)
+* Sobel (3x3, 5x5, 7x7, 9x9) ![Alt text](http://i.imgur.com/yuUzb6i.png)
 * Roberts Cross (3x3)
 * Prewitt (3x3, 5x5, 7x7)
 * Laplacian Gaussian (3x3, 5x5, 7x7, 9x9)
