@@ -1,7 +1,7 @@
 Image Loader / Edition
 ==========
 
-Image loader focused on edge detection, using C# and image loading functions provided by Windows System, UI using Windows Forms.
+Image loader focused on edge detection, using C# and image loading functions provided by Windows System, UI using Windows Forms. College Project
 
 Edge Detection Kernels:
 
